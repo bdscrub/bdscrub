@@ -143,7 +143,7 @@ most useful contribution: they go into the CSV files in `data-raw/`.
 
 ## Authors
 
-Ishtiaq Mahmud Fahim (maintainer) and Humaira Kashmi.
+Ishtiaq Mahmud Fahim and Humaira Kashmi.
 
 ## Licence
 
