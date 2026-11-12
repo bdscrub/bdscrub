@@ -1,0 +1,25 @@
+marker,meaning
+na,not available
+n/a,not applicable
+n.a.,not available
+n.a,not available
+null,database null
+nan,not a number
+-,dash
+--,dashes
+---,dashes
+.,dot
+?,question mark
+missing,missing
+not applicable,not applicable
+not available,not available
+#n/a,Excel: no value
+#value!,Excel error
+#ref!,Excel error
+#div/0!,Excel error
+#name?,Excel error
+#num!,Excel error
+#null!,Excel error
+প্রযোজ্য নয়,Bangla: not applicable (proyojyo noy)
+প্রযোজ্য নহে,Bangla: not applicable (proyojyo nohe)
+তথ্য নেই,Bangla: no information (tottho nei)

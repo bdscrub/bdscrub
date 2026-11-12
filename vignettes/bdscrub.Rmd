@@ -1,0 +1,96 @@
+---
+title: "Cleaning Bangladeshi survey data with bdscrub"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Cleaning Bangladeshi survey data with bdscrub}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>")
+```
+
+Survey and administrative data from Bangladesh have the same problems again
+and again: mobile numbers typed in ten ways, money written as "1.5 lakh" or
+"Tk 25,000/-", Bangla digits, and place names spelled differently in every
+source and differently again in the boundary files used for maps. bdscrub
+fixes these with eleven functions and reports every change it makes.
+
+```{r}
+library(bdscrub)
+```
+
+## Mobile numbers
+
+```{r}
+x <- c("01712345678", "+880 1712-345678", "8801812345678", "1912345678",
+       "0171234567", "01712345678 / 01812345678", NA)
+bd_phone(x, warn = FALSE)
+bd_phone(x, format = "e164", multiple = "first", warn = FALSE)
+bd_phone(x, details = TRUE)
+```
+
+A cell with two numbers gives `NA` by default, because choosing one is a
+decision; `multiple = "first"` makes that decision explicit.
+
+## Money and numbers
+
+```{r}
+inc <- c("Tk 1,25,000", "1.5 lakh", "1 crore 25 lakh", "500/-", "25k",
+         "15-20k", "about 5 lakh", "Tk 25,00")
+bd_amount(inc, warn = FALSE)
+bd_amount(inc, details = TRUE)
+bd_number(c("1,25,000", " 34 ", "34 years"), warn = FALSE)
+bd_taka(c(125000, 12500000), prefix = "Tk ")
+```
+
+Ranges and approximate amounts are not exact amounts, so they are `NA` in the
+plain result; `details = TRUE` keeps their lower and upper ends for the
+analysis to decide.
+
+## Place names
+
+```{r}
+bd_place(c("Chittagong", "jessore district", "Munshigonj", "COX'S BAZAR",
+           "Nababganj", "Kishorgnj"))
+bd_place(c("Chattogram", "Brahmanbaria"), style = "map")
+bd_place(c("Kaliganj", "Kaliganj", "Sadar", "Savar Upazila"), level = "thana",
+         district = c("Gazipur", NA, "Feni", NA), warn = FALSE)
+bd_place(c("Ashulia", "Mirpur"), level = "thana", district = "Dhaka",
+         details = TRUE)
+```
+
+Every name that was not written in the standard spelling is listed in the
+message, so corrections (especially fuzzy typing-error corrections) can be
+checked. Names used in several districts need the district; without it they
+are "ambiguous" and `NA`, not guessed.
+
+## Addresses
+
+```{r}
+bd_address(c("House 12, Road 5, Mirpur 10, Dhaka-1216",
+             "Vill: Char Kalia, P.O: Kalia, Narail - 7520",
+             "Ashulia, Dhaka", "Kaliganj", "Mirpur, Dhaka-7030"))
+```
+
+## Whole data frames
+
+```{r}
+df <- data.frame(
+  mobile  = c("01712345678", "+880 1812-345678", "12345", "N/A"),
+  zila    = c("Chittagong", "Jessore", "Dhaka", "Atlantis"),
+  income  = c("Tk 25,000", "1.5 lakh", "15-20k", "-"),
+  address = c("Agrabad, Chattogram 4100", "Kotwali, Jessore", "Ashulia", NA),
+  stringsAsFactors = FALSE
+)
+spec <- c(mobile = "phone", zila = "district", income = "amount",
+          address = "address")
+bd_check(df, spec, district = "zila")
+bd_check(df, spec, details = TRUE, district = "zila")
+bd_clean(df, spec, district = "zila")
+```
+
+`bd_check()` tells you what cannot be read and why; `bd_clean()` adds the
+cleaned columns next to the originals, so nothing is overwritten unless you
+ask for it with `suffix = ""`.

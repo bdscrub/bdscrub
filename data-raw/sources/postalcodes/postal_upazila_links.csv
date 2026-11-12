@@ -1,0 +1,477 @@
+"postal_upazila","district","upazila","how","tried","upazila_district","note"
+"Motijheel","Dhaka","Motijheel","exact","Motijheel","Dhaka",NA
+"Dhaka Sadar","Dhaka",NA,"not linked",NA,NA,NA
+"Dhaka Sadr","Dhaka",NA,"not linked",NA,NA,NA
+"Nilkhet","Dhaka",NA,"rejected","Nilkhet",NA,"reject the fuzzy link to Khilkhet: Nilkhet is a locality near New Market"
+"Kochukhet","Dhaka",NA,"not linked",NA,NA,NA
+"Mohammadpur","Dhaka","Mohammadpur","exact","Mohammadpur","Dhaka",NA
+"Kamrangirchar","Dhaka","Kamrangir Char","exact","Kamrangirchar","Dhaka",NA
+"Tejgaon","Dhaka","Tejgaon","exact","Tejgaon","Dhaka",NA
+"Dhanmondi","Dhaka","Dhanmondi","exact","Dhanmondi","Dhaka",NA
+"Gulshan","Dhaka","Gulshan","exact","Gulshan","Dhaka",NA
+"Banani","Dhaka",NA,"not linked",NA,NA,NA
+"Khilgaon","Dhaka","Khilgaon","exact","Khilgaon","Dhaka",NA
+"Mirpur","Dhaka","Mirpur","exact","Mirpur","Dhaka",NA
+"Shantinagar","Dhaka",NA,"not linked",NA,NA,NA
+"Lalmati","Dhaka",NA,"not linked",NA,NA,NA
+"Khilkhet","Dhaka","Khilkhet","exact","Khilkhet","Dhaka",NA
+"Uttara","Dhaka","Uttara","exact","Uttara","Dhaka",NA
+"Dania","Dhaka",NA,"not linked",NA,NA,NA
+"Keranigonj","Dhaka","Keraniganj","exact","Keranigonj","Dhaka",NA
+"Nawabgonj","Dhaka","Nawabganj","exact","Nawabgonj","Dhaka",NA
+"Joypara (Dohar)","Dhaka","Dohar","exact","Dohar","Dhaka",NA
+"Savar","Dhaka","Savar","exact","Savar","Dhaka",NA
+"Dhamrai","Dhaka","Dhamrai","exact","Dhamrai","Dhaka",NA
+"Demra","Dhaka","Demra","exact","Demra","Dhaka",NA
+"Kodomtoli","Dhaka","Kadamtali","checked by hand",NA,"Dhaka","spelling"
+"Sadar","Narayanganj","Narayanganj Sadar","variant","Sadar","Narayanganj",NA
+"Bandar","Narayanganj","Bandar","exact","Bandar","Narayanganj",NA
+"Fatulla","Narayanganj","Narayanganj Sadar","checked by hand",NA,"Narayanganj","thana within Narayanganj Sadar upazila"
+"Siddirgonj","Narayanganj","Narayanganj Sadar","checked by hand",NA,"Narayanganj","thana within Narayanganj Sadar upazila"
+"Sonargaon","Narayanganj","Sonargaon","exact","Sonargaon","Narayanganj",NA
+"Arhaihazar","Narayanganj","Araihazar","typing error","Arhaihazar","Narayanganj",NA
+"Rupgonj","Narayanganj","Rupganj","exact","Rupgonj","Narayanganj",NA
+"Sadar","Munshiganj","Munshiganj Sadar","variant","Sadar","Munshiganj",NA
+"Gazaria","Munshiganj","Gazaria","exact","Gazaria","Munshiganj",NA
+"Tongibari","Munshiganj","Tongibari","exact","Tongibari","Munshiganj",NA
+"Louhajong","Munshiganj","Lohajang","typing error","Louhajong","Munshiganj",NA
+"Serajdi Khan","Munshiganj","Sirajdikhan","variant","Serajdi Khan","Munshiganj",NA
+"Sreenagar","Munshiganj","Sreenagar","exact","Sreenagar","Munshiganj",NA
+"Sadar","Narsingdi","Narsingdi Sadar","variant","Sadar","Narsingdi",NA
+"Palash","Narsingdi","Palash","exact","Palash","Narsingdi",NA
+"Shibpur","Narsingdi","Shibpur","exact","Shibpur","Narsingdi",NA
+"Raipura","Narsingdi","Raipura","exact","Raipura","Narsingdi",NA
+"Belabo","Narsingdi","Belabo","exact","Belabo","Narsingdi",NA
+"Monohardi","Narsingdi","Monohardi","exact","Monohardi","Narsingdi",NA
+"Gazipur","Gazipur","Gazipur Sadar","checked by hand",NA,"Gazipur","sadar upazila"
+"Monnonagar","Gazipur",NA,"not linked",NA,NA,NA
+"Kaligonj","Gazipur","Kaliganj","exact","Kaligonj","Gazipur",NA
+"Kapasia","Gazipur","Kapasia","exact","Kapasia","Gazipur",NA
+"Sreepur","Gazipur","Sreepur","exact","Sreepur","Gazipur",NA
+"kaliakair","Gazipur","Kaliakair","exact","kaliakair","Gazipur",NA
+"Sadar","Manikganj","Manikgonj Sadar","variant","Sadar","Manikganj",NA
+"Saturia","Manikganj","Saturia","exact","Saturia","Manikganj",NA
+"Singair","Manikganj","Singair","exact","Singair","Manikganj",NA
+"Lesragonj (Harirampur)","Manikganj","Harirampur","exact","Harirampur","Manikganj",NA
+"Ghior","Manikganj","Ghior","exact","Ghior","Manikganj",NA
+"Shibalaya","Manikganj","Shivalaya","variant","Shibalaya","Manikganj",NA
+"Daulatpur","Manikganj","Daulatpur","exact","Daulatpur","Manikganj",NA
+"Sadar","Tangail","Tangail Sadar","variant","Sadar","Tangail",NA
+"Deldoar","Tangail","Delduar","typing error","Deldoar","Tangail",NA
+"Basail","Tangail","Basail","exact","Basail","Tangail",NA
+"Khas Kaolia","Tangail",NA,"not linked",NA,NA,NA
+"Nagarpur","Tangail","Nagarpur","exact","Nagarpur","Tangail",NA
+"Mirzapur","Tangail","Mirzapur","exact","Mirzapur","Tangail",NA
+"Shakhipur","Tangail","Sakhipur","typing error","Shakhipur","Tangail",NA
+"Bhuapur","Tangail","Bhuapur","exact","Bhuapur","Tangail",NA
+"Kalihati","Tangail","Kalihati","exact","Kalihati","Tangail",NA
+"Ghatail","Tangail","Ghatail","exact","Ghatail","Tangail",NA
+"Gopalpur","Tangail","Gopalpur","exact","Gopalpur","Tangail",NA
+"Madhupur","Tangail","Madhupur","exact","Madhupur","Tangail",NA
+"Sadar","Jamalpur","Jamalpur Sadar","variant","Sadar","Jamalpur",NA
+"Melandah","Jamalpur","Melandaha","typing error","Melandah","Jamalpur",NA
+"Islampur","Jamalpur","Islampur","exact","Islampur","Jamalpur",NA
+"Dewangonj","Jamalpur","Dewanganj","exact","Dewangonj","Jamalpur",NA
+"Madargonj","Jamalpur","Madarganj","exact","Madargonj","Jamalpur",NA
+"Sarishabari","Jamalpur","Sarishabari","exact","Sarishabari","Jamalpur",NA
+"sadar","Sherpur","Sherpur Sadar","variant","sadar","Sherpur",NA
+"Nalitabari","Sherpur","Nalitabari","exact","Nalitabari","Sherpur",NA
+"Jenaigati","Sherpur","Jhenaigati","typing error","Jenaigati","Sherpur",NA
+"Sreebardi","Sherpur","Sreebardi","exact","Sreebardi","Sherpur",NA
+"Bakshigonj","Sherpur","Baksiganj","checked by hand",NA,"Jamalpur","postal district differs from the administrative district"
+"Nakla","Sherpur","Nakla","exact","Nakla","Sherpur",NA
+"Sadar","Kishoreganj","Kishoreganj Sadar","variant","Sadar","Kishoreganj",NA
+"Karimgonj","Kishoreganj","Karimganj","exact","Karimgonj","Kishoreganj",NA
+"Tarail","Kishoreganj","Tarail","exact","Tarail","Kishoreganj",NA
+"Hussainpur","Kishoreganj","Hossainpur","typing error","Hussainpur","Kishoreganj",NA
+"Pakundi","Kishoreganj","Pakundia","typing error","Pakundi","Kishoreganj",NA
+"Kathiadi","Kishoreganj","Katiadi","typing error","Kathiadi","Kishoreganj",NA
+"Bajitpur","Kishoreganj","Bajitpur","exact","Bajitpur","Kishoreganj",NA
+"Kuliarchar","Kishoreganj","Kuliarchar","exact","Kuliarchar","Kishoreganj",NA
+"Bhairab","Kishoreganj","Bhairab","exact","Bhairab","Kishoreganj",NA
+"Nikli","Kishoreganj","Nikli","exact","Nikli","Kishoreganj",NA
+"Mithamain","Kishoreganj","Mithamain","exact","Mithamain","Kishoreganj",NA
+"Astagram","Kishoreganj","Austagram","typing error","Astagram","Kishoreganj",NA
+"Itna","Kishoreganj","Itna","exact","Itna","Kishoreganj",NA
+"Sadar","Netrakona","Netrokona Sadar","variant","Sadar","Netrakona",NA
+"Purbadhala","Netrakona","Purbadhala","exact","Purbadhala","Netrakona",NA
+"Dhobaura","Netrakona","Dhobaura","checked by hand",NA,"Mymensingh","postal district differs from the administrative district"
+"Susang","Netrakona","Durgapur","checked by hand",NA,"Netrakona","Susang Durgapur"
+"Kamakanda","Netrakona","Kalmakanda","typing error","Kamakanda","Netrakona",NA
+"Barhatta","Netrakona","Barhatta","exact","Barhatta","Netrakona",NA
+"Mohangonj","Netrakona","Mohanganj","exact","Mohangonj","Netrakona",NA
+"Dharampasa","Netrakona","Dharamapasha","checked by hand",NA,"Sunamganj","postal district differs from the administrative district"
+"Madhya Nagar","Netrakona","Madhyanagar","checked by hand",NA,"Sunamganj","postal district differs from the administrative district"
+"Khaliajuri","Netrakona","Khaliajuri","exact","Khaliajuri","Netrakona",NA
+"Atpara","Netrakona","Atpara","exact","Atpara","Netrakona",NA
+"Kendua","Netrakona","Kendua","exact","Kendua","Netrakona",NA
+"Madan","Netrakona","Madan","exact","Madan","Netrakona",NA
+"Sadar","Sunamganj","Sunamganj Sadar","variant","Sadar","Sunamganj",NA
+"Biswambarpur","Sunamganj","Bishwamvarpur","typing error","Biswambarpur","Sunamganj",NA
+"Sanchana (Jamalgonj)","Sunamganj","Jamalganj","exact","Jamalgonj","Sunamganj",NA
+"Tahirpur","Sunamganj","Tahirpur","exact","Tahirpur","Sunamganj",NA
+"Dirai Chandpur (Dirai)","Sunamganj","Derai","typing error","Dirai","Sunamganj",NA
+"Ghunghiargaon (Sallah)","Sunamganj","Sullah","typing error","Sallah","Sunamganj",NA
+"Jaganhpur","Sunamganj","Jagannathpur","checked by hand",NA,"Sunamganj","typing error in source"
+"Duara Bazar","Sunamganj","Dowarabazar","typing error","Duara Bazar","Sunamganj",NA
+"Chatak","Sunamganj","Chhatak","typing error","Chatak","Sunamganj",NA
+"Sadar","Sylhet","Sylhet Sadar","variant","Sadar","Sylhet",NA
+"Fenchugonj","Sylhet","Fenchuganj","exact","Fenchugonj","Sylhet",NA
+"Balagonj","Sylhet","Balaganj","exact","Balagonj","Sylhet",NA
+"Bishwa Nath","Sylhet","Bishwanath","exact","Bishwa Nath","Sylhet",NA
+"Companigonj Nutun Bazar (Companigonj)","Sylhet","Companiganj","exact","Companigonj","Sylhet",NA
+"Goainghat","Sylhet","Gowainghat","typing error","Goainghat","Sylhet",NA
+"Jaintapur","Sylhet","Jaintiapur","typing error","Jaintapur","Sylhet",NA
+"Golapgonj","Sylhet","Golapganj","exact","Golapgonj","Sylhet",NA
+"Beani Bazar","Sylhet","Beanibazar","exact","Beani Bazar","Sylhet",NA
+"Kanaighat","Sylhet","Kanaighat","exact","Kanaighat","Sylhet",NA
+"Jakigonj","Sylhet","Zakiganj","typing error","Jakigonj","Sylhet",NA
+"Sadar","Moulvibazar","Moulvibazar Sadar","variant","Sadar","Moulvibazar",NA
+"Sreemangal","Moulvibazar","Sreemangal","exact","Sreemangal","Moulvibazar",NA
+"Kamalgonj","Moulvibazar","Kamalganj","exact","Kamalgonj","Moulvibazar",NA
+"Kulaura","Moulvibazar","Kulaura","exact","Kulaura","Moulvibazar",NA
+"Raj Nagar","Moulvibazar","Rajnagar","exact","Raj Nagar","Moulvibazar",NA
+"Barlekha","Moulvibazar","Barlekha","exact","Barlekha","Moulvibazar",NA
+"Sadar","Habiganj","Habiganj Sadar","variant","Sadar","Habiganj",NA
+"Bahubal","Habiganj","Bahubal","exact","Bahubal","Habiganj",NA
+"Chunaraghat","Habiganj","Chunarughat","typing error","Chunaraghat","Habiganj",NA
+"Madhabpur","Habiganj","Madhabpur","exact","Madhabpur","Habiganj",NA
+"Kalauk","Habiganj","Lakhai","checked by hand",NA,"Habiganj","post office town of the upazila"
+"Baniachong","Habiganj","Baniyachong","variant","Baniachong","Habiganj",NA
+"Azmirigonj","Habiganj","Ajmiriganj","typing error","Azmirigonj","Habiganj",NA
+"Nabigonj","Habiganj","Nabiganj","exact","Nabigonj","Habiganj",NA
+"Sadar","Brahmanbaria","Brahmanbaria Sadar","variant","Sadar","Brahmanbaria",NA
+"Nabinagar","Brahmanbaria","Nabinagar","exact","Nabinagar","Brahmanbaria",NA
+"Bancharampur","Brahmanbaria","Bancharampur","exact","Bancharampur","Brahmanbaria",NA
+"Sarail","Brahmanbaria","Sarail","exact","Sarail","Brahmanbaria",NA
+"Nasirnagar","Brahmanbaria","Nasirnagar","exact","Nasirnagar","Brahmanbaria",NA
+"Akhaura","Brahmanbaria","Akhaura","exact","Akhaura","Brahmanbaria",NA
+"Quasba","Brahmanbaria","Kasba","typing error","Quasba","Brahmanbaria",NA
+"Sadar","Cumilla","Cumilla Adarsha Sadar","variant","Sadar","Cumilla",NA
+"Chandina","Cumilla","Chandina","exact","Chandina","Cumilla",NA
+"Daudkandi","Cumilla","Daudkandi","exact","Daudkandi","Cumilla",NA
+"Burichang","Cumilla","Burichang","exact","Burichang","Cumilla",NA
+"Brahmanpara","Cumilla","Brahmanpara","exact","Brahmanpara","Cumilla",NA
+"Debidwar","Cumilla","Debidwar","exact","Debidwar","Cumilla",NA
+"Muradnagar","Cumilla","Muradnagar","exact","Muradnagar","Cumilla",NA
+"Homna","Cumilla","Homna","exact","Homna","Cumilla",NA
+"Chaudha Gram","Cumilla","Chauddagram","typing error","Chaudha Gram","Cumilla",NA
+"Barura","Cumilla","Barura","exact","Barura","Cumilla",NA
+"Laksam","Cumilla","Laksam","exact","Laksam","Cumilla",NA
+"Nangalkot","Cumilla","Nangalkot","exact","Nangalkot","Cumilla",NA
+"Sadar","Chandpur","Chandpur Sadar","variant","Sadar","Chandpur",NA
+"Hajigonj","Chandpur","Haziganj","variant","Hajigonj","Chandpur",NA
+"Shahrasti","Chandpur","Shahrasti","exact","Shahrasti","Chandpur",NA
+"Kachua","Chandpur","Kachua","exact","Kachua","Chandpur",NA
+"Matlabgonj (Matlab)","Chandpur",NA,"not linked",NA,NA,NA
+"Faridgonj","Chandpur","Faridganj","exact","Faridgonj","Chandpur",NA
+"Haimchar","Chandpur","Haimchar","exact","Haimchar","Chandpur",NA
+"Sadar","Lakshmipur","Lakshmipur Sadar","variant","Sadar","Lakshmipur",NA
+"Roypur","Lakshmipur","Raipur","variant","Roypur","Lakshmipur",NA
+"Ramgonj","Lakshmipur","Ramganj","exact","Ramgonj","Lakshmipur",NA
+"Char Alexander (Rangamati)","Lakshmipur","Ramgati","checked by hand",NA,"Lakshmipur","Alexander is the upazila town; ""Rangamati"" in the source is a typing error for Ramgati"
+"Sadar","Noakhali","Noakhali Sadar","variant","Sadar","Noakhali",NA
+"Begumgonj","Noakhali","Begumganj","exact","Begumgonj","Noakhali",NA
+"Bashurhat (Companigonj)","Noakhali","Companiganj","exact","Companigonj","Noakhali",NA
+"Senbagh","Noakhali","Senbagh","exact","Senbagh","Noakhali",NA
+"Chatkhil","Noakhali","Chatkhil","exact","Chatkhil","Noakhali",NA
+"Hatya","Noakhali","Hatiya","typing error","Hatya","Noakhali",NA
+"Sadar","Feni","Feni Sadar","variant","Sadar","Feni",NA
+"Chhagal Naiya","Feni","Chhagalnaiya","exact","Chhagal Naiya","Feni",NA
+"Dagon Bhuiyan","Feni","Daganbhuiyan","typing error","Dagon Bhuiyan","Feni",NA
+"Sonagazi","Feni","Sonagazi","exact","Sonagazi","Feni",NA
+"Parshuram","Feni","Parshuram","exact","Parshuram","Feni",NA
+"Sadar","Chattogram",NA,"not linked",NA,NA,NA
+"Sitakundu","Chattogram","Sitakunda","typing error","Sitakundu","Chattogram",NA
+"Mireshwarai","Chattogram","Mirsharai","typing error","Mireshwarai","Chattogram",NA
+"Sandwip","Chattogram","Sandwip","exact","Sandwip","Chattogram",NA
+"Hathazari","Chattogram","Hathazari","exact","Hathazari","Chattogram",NA
+"Raozan","Chattogram","Raozan","exact","Raozan","Chattogram",NA
+"Fatikchari","Chattogram","Fatikchhari","typing error","Fatikchari","Chattogram",NA
+"Rangunia (Dhamair)","Chattogram","Rangunia","exact","Rangunia","Chattogram",NA
+"Boalkhali","Chattogram","Boalkhali","exact","Boalkhali","Chattogram",NA
+"Patiya","Chattogram","Patiya","exact","Patiya","Chattogram",NA
+"Anowara","Chattogram","Anwara","variant","Anowara","Chattogram",NA
+"East Zoara (Chandanaish)","Chattogram","Chandanaish","exact","Chandanaish","Chattogram",NA
+"Satkania","Chattogram","Satkania","exact","Satkania","Chattogram",NA
+"Jaldi (Bashkhali)","Chattogram","Banshkhali","typing error","Bashkhali","Chattogram",NA
+"Lohaghora","Chattogram","Lohagara","typing error","Lohaghora","Chattogram",NA
+"Sadar","Khagrachhari","Khagrachhari Sadar","variant","Sadar","Khagrachhari",NA
+"Panchari","Khagrachhari","Panchhari","typing error","Panchari","Khagrachhari",NA
+"Diginala","Khagrachhari","Dighinala","typing error","Diginala","Khagrachhari",NA
+"Mahal Chari","Khagrachhari","Mahalchhari","typing error","Mahal Chari","Khagrachhari",NA
+"Ranghar","Khagrachhari","Ramgarh","checked by hand",NA,"Khagrachhari","typing error in source"
+"Matiranga","Khagrachhari","Matiranga","exact","Matiranga","Khagrachhari",NA
+"Manikchari","Khagrachhari","Manikchhari","typing error","Manikchari","Khagrachhari",NA
+"Lakshmi Chari","Khagrachhari","Lakshmichhari","typing error","Lakshmi Chari","Khagrachhari",NA
+"Sadar","Rangamati","Rangamati Sadar","variant","Sadar","Rangamati",NA
+"Kalampati (Kaokhali)","Rangamati","Kawkhali","typing error","Kaokhali","Rangamati",NA
+"Naniarchar","Rangamati","Naniyachar","variant","Naniarchar","Rangamati",NA
+"Kaptai","Rangamati","Kaptai","exact","Kaptai","Rangamati",NA
+"Rajasthali","Rangamati","Rajasthali","exact","Rajasthali","Rangamati",NA
+"Belaichari","Rangamati","Belaichhari","typing error","Belaichari","Rangamati",NA
+"Jarachari","Rangamati","Juraichhari","checked by hand",NA,"Rangamati","spelling"
+"Barkal","Rangamati","Barkal","exact","Barkal","Rangamati",NA
+"Longdu","Rangamati","Langadu","typing error","Longdu","Rangamati",NA
+"Marishya (Bagaichari)","Rangamati","Bagaichhari","typing error","Bagaichari","Rangamati",NA
+"Sadar","Bandarban","Bandarban Sadar","variant","Sadar","Bandarban",NA
+"Roangchari","Bandarban","Rowangchhari","typing error","Roangchari","Bandarban",NA
+"Ruma","Bandarban","Ruma","exact","Ruma","Bandarban",NA
+"Thanchi","Bandarban","Thanchi","exact","Thanchi","Bandarban",NA
+"Lama","Bandarban","Lama","exact","Lama","Bandarban",NA
+"Alikadam","Bandarban","Ali Kadam","exact","Alikadam","Bandarban",NA
+"Naikhangchari","Bandarban","Naikhongchhari","typing error","Naikhangchari","Bandarban",NA
+"Sadar","Cox's Bazar","Cox's Bazar Sadar","variant","Sadar","Cox's Bazar",NA
+"Ghorakghat (Moheshkhali)","Cox's Bazar","Maheshkhali","typing error","Moheshkhali","Cox's Bazar",NA
+"Kutubdia","Cox's Bazar","Kutubdia","exact","Kutubdia","Cox's Bazar",NA
+"Ramu","Cox's Bazar","Ramu","exact","Ramu","Cox's Bazar",NA
+"Chiringa Community Centre (Chakaria)","Cox's Bazar","Chakaria","exact","Chakaria","Cox's Bazar",NA
+"Ukhiya","Cox's Bazar","Ukhia","typing error","Ukhiya","Cox's Bazar",NA
+"Teknaf","Cox's Bazar","Teknaf","exact","Teknaf","Cox's Bazar",NA
+"Sadar","Panchagarh","Panchagarh Sadar","variant","Sadar","Panchagarh",NA
+"Boda","Panchagarh","Boda","exact","Boda","Panchagarh",NA
+"Debigonj","Panchagarh","Debiganj","exact","Debigonj","Panchagarh",NA
+"Tetulia","Panchagarh","Tetulia","exact","Tetulia","Panchagarh",NA
+"Chotodab (Atwar)","Panchagarh","Atwari","typing error","Atwar","Panchagarh",NA
+"Sadar","Thakurgaon","Thakurgaon Sadar","variant","Sadar","Thakurgaon",NA
+"Pirgonj","Thakurgaon","Pirganj","exact","Pirgonj","Thakurgaon",NA
+"Rani Shakail","Thakurgaon","Ranisankail","typing error","Rani Shakail","Thakurgaon",NA
+"Jibanpur","Thakurgaon",NA,"not linked",NA,NA,NA
+"Baliadangi","Thakurgaon","Baliadangi","exact","Baliadangi","Thakurgaon",NA
+"Sadar","Dinajpur","Dinajpur Sadar","variant","Sadar","Dinajpur",NA
+"Biral","Dinajpur","Biral","exact","Biral","Dinajpur",NA
+"Setabgonj","Dinajpur","Bochaganj","checked by hand",NA,"Dinajpur","post office town of the upazila"
+"Birgonj","Dinajpur","Birganj","exact","Birgonj","Dinajpur",NA
+"Maharajgonj (Kaharul)","Dinajpur","Kaharole","typing error","Kaharul","Dinajpur",NA
+"Khansama","Dinajpur","Khansama","exact","Khansama","Dinajpur",NA
+"Chirir Bandar","Dinajpur","Chirirbandar","exact","Chirir Bandar","Dinajpur",NA
+"Parbatipur","Dinajpur","Parbatipur","exact","Parbatipur","Dinajpur",NA
+"Fulbari","Dinajpur","Phulbari","variant","Fulbari","Dinajpur",NA
+"Birampur","Dinajpur","Birampur","exact","Birampur","Dinajpur",NA
+"Banla Hili (Hakimpur)","Dinajpur","Hakimpur","exact","Hakimpur","Dinajpur",NA
+"Nababgonj","Dinajpur","Nawabganj","typing error","Nababgonj","Dinajpur",NA
+"Osmanpur (Ghoraghat)","Dinajpur","Ghoraghat","exact","Ghoraghat","Dinajpur",NA
+"Sadar","Nilphamari","Nilphamari Sadar","variant","Sadar","Nilphamari",NA
+"Sayedpur","Nilphamari","Saidpur","typing error","Sayedpur","Nilphamari",NA
+"Kishoregonj","Nilphamari","Kishoreganj","exact","Kishoregonj","Nilphamari",NA
+"Jaldhaka","Nilphamari","Jaldhaka","exact","Jaldhaka","Nilphamari",NA
+"Domar","Nilphamari","Domar","exact","Domar","Nilphamari",NA
+"Dimla","Nilphamari","Dimla","exact","Dimla","Nilphamari",NA
+"Sadar","Rangpur","Rangpur Sadar","variant","Sadar","Rangpur",NA
+"Ganga Chara","Rangpur","Gangachhara","variant","Ganga Chara","Rangpur",NA
+"Taragonj","Rangpur","Taraganj","exact","Taragonj","Rangpur",NA
+"Badargonj","Rangpur","Badarganj","exact","Badargonj","Rangpur",NA
+"Kaonia","Rangpur","Kaunia","typing error","Kaonia","Rangpur",NA
+"Pirgarcha","Rangpur","Pirgachha","typing error","Pirgarcha","Rangpur",NA
+"Mithapukur","Rangpur","Mithapukur","exact","Mithapukur","Rangpur",NA
+"Pirgonj","Rangpur","Pirganj","exact","Pirgonj","Rangpur",NA
+"Sadar","Lalmonirhat","Lalmonirhat Sadar","variant","Sadar","Lalmonirhat",NA
+"Aditmari","Lalmonirhat","Aditmari","exact","Aditmari","Lalmonirhat",NA
+"Tushbhanader","Lalmonirhat","Kaliganj","checked by hand",NA,"Lalmonirhat","post office town (Tushbhandar) of the upazila"
+"Hatibanda","Lalmonirhat","Hatibandha","typing error","Hatibanda","Lalmonirhat",NA
+"Patgram","Lalmonirhat","Patgram","exact","Patgram","Lalmonirhat",NA
+"Sadar","Kurigram","Kurigram Sadar","variant","Sadar","Kurigram",NA
+"Rajarhat","Kurigram","Rajarhat","exact","Rajarhat","Kurigram",NA
+"Ulipur","Kurigram","Ulipur","exact","Ulipur","Kurigram",NA
+"Chilmari","Kurigram","Chilmari","exact","Chilmari","Kurigram",NA
+"Roumari","Kurigram","Raomari","typing error","Roumari","Kurigram",NA
+"Rajibpur","Kurigram","Char Rajibpur","checked by hand",NA,"Kurigram","short form"
+"Nageswari","Kurigram","Nageshwari","typing error","Nageswari","Kurigram",NA
+"Bhurungamari","Kurigram","Bhurungamari","exact","Bhurungamari","Kurigram",NA
+"Fulbari","Kurigram","Phulbari","typing error","Fulbari","Kurigram",NA
+"Sadar","Gaibandha","Gaibandha Sadar","variant","Sadar","Gaibandha",NA
+"Sadullahpur","Gaibandha","Sadullapur","typing error","Sadullahpur","Gaibandha",NA
+"Sundargonj","Gaibandha","Sundarganj","exact","Sundargonj","Gaibandha",NA
+"Palashbari","Gaibandha","Palashbari","exact","Palashbari","Gaibandha",NA
+"Gobindagonj","Gaibandha","Gobindaganj","exact","Gobindagonj","Gaibandha",NA
+"Bonarpara (Saghate)","Gaibandha","Sughatta","typing error","Saghate","Gaibandha",NA
+"Fulchari","Gaibandha","Phulchhari","typing error","Fulchari","Gaibandha",NA
+"Sadar","Bogura","Bogura Sadar","variant","Sadar","Bogura",NA
+"Shibgonj","Bogura","Shibganj","exact","Shibgonj","Bogura",NA
+"Gabtoli","Bogura","Gabtali","typing error","Gabtoli","Bogura",NA
+"Sonatola","Bogura","Sonatola","exact","Sonatola","Bogura",NA
+"Saria Kandi","Bogura","Sariakandi","exact","Saria Kandi","Bogura",NA
+"Sherpur","Bogura","Sherpur","exact","Sherpur","Bogura",NA
+"Dunat","Bogura","Dhunat","typing error","Dunat","Bogura",NA
+"Nandigram","Bogura","Nandigram","exact","Nandigram","Bogura",NA
+"Kahalu","Bogura","Kahaloo","typing error","Kahalu","Bogura",NA
+"Dupchachia","Bogura","Dhupchanchia","typing error","Dupchachia","Bogura",NA
+"Adam Dighi","Bogura","Adamdighi","exact","Adam Dighi","Bogura",NA
+"Sadar","Joypurhat","Joypurhat Sadar","variant","Sadar","Joypurhat",NA
+"Panchbibi","Joypurhat","Panchbibi","exact","Panchbibi","Joypurhat",NA
+"Khetal","Joypurhat","Khetlal","typing error","Khetal","Joypurhat",NA
+"Kalai","Joypurhat","Kalai","exact","Kalai","Joypurhat",NA
+"Akkelpur","Joypurhat","Akkelpur","exact","Akkelpur","Joypurhat",NA
+"Sadar","Rajshahi",NA,"not linked",NA,NA,NA
+"Lalitgonj","Rajshahi",NA,"not linked",NA,NA,NA
+"Khodemohanpur(Mohanpur)","Rajshahi","Mohanpur","exact","Mohanpur","Rajshahi",NA
+"Tanore","Rajshahi","Tanore","exact","Tanore","Rajshahi",NA
+"Durgapur","Rajshahi","Durgapur","exact","Durgapur","Rajshahi",NA
+"Bhabanigonj (Bagmara)","Rajshahi","Bagmara","exact","Bagmara","Rajshahi",NA
+"Puthia","Rajshahi","Puthia","exact","Puthia","Rajshahi",NA
+"Carghat","Rajshahi","Charghat","typing error","Carghat","Rajshahi",NA
+"Baga","Rajshahi","Bagha","typing error","Baga","Rajshahi",NA
+"Godagari","Rajshahi","Godagari","exact","Godagari","Rajshahi",NA
+"Sadar","Chapai Nawabganj","Nawabganj Sadar","variant","Sadar","Chapai Nawabganj",NA
+"Nachul","Chapai Nawabganj","Nachole","typing error","Nachul","Chapai Nawabganj",NA
+"Rohanpur (Gomostapur)","Chapai Nawabganj","Gomastapur","typing error","Gomostapur","Chapai Nawabganj",NA
+"Bholahat","Chapai Nawabganj","Bholahat","exact","Bholahat","Chapai Nawabganj",NA
+"Shibgonj","Chapai Nawabganj","Shibganj","exact","Shibgonj","Chapai Nawabganj",NA
+"Sadar","Natore","Natore Sadar","variant","Sadar","Natore",NA
+"Lakkanhati (Bagatipara)","Natore","Bagatipara","exact","Bagatipara","Natore",NA
+"Gopalpur (Lalpur)","Natore","Lalpur","exact","Lalpur","Natore",NA
+"Harua (Baraigram)","Natore","Baraigram","exact","Baraigram","Natore",NA
+"Hatgurudaspur (Gurudaspur)","Natore","Gurudaspur","exact","Gurudaspur","Natore",NA
+"Singrha","Natore","Singra","typing error","Singrha","Natore",NA
+"Sadar","Naogaon","Naogaon Sadar","variant","Sadar","Naogaon",NA
+"Prasadpur (Manda)","Naogaon","Manda","exact","Manda","Naogaon",NA
+"Niamatpur","Naogaon","Niamatpur","exact","Niamatpur","Naogaon",NA
+"Mahadebpur","Naogaon","Mohadevpur","variant","Mahadebpur","Naogaon",NA
+"Patmitala","Naogaon","Patnitala","typing error","Patmitala","Naogaon",NA
+"Nitpur (Pursa)","Naogaon","Porsha","checked by hand",NA,"Naogaon","spelling"
+"Sapahar","Naogaon","Sapahar","exact","Sapahar","Naogaon",NA
+"Badalgachi","Naogaon","Badalgachhi","typing error","Badalgachi","Naogaon",NA
+"Dhamuirhat","Naogaon","Dhamoirhat","typing error","Dhamuirhat","Naogaon",NA
+"Raninagar","Naogaon","Raninagar","exact","Raninagar","Naogaon",NA
+"Ahsangonj (Atral)","Naogaon","Atrai","typing error","Atral","Naogaon",NA
+"Sadar","Pabna","Pabna Sadar","variant","Sadar","Pabna",NA
+"Debattar (Afgaria)","Pabna","Atgharia","typing error","Afgaria","Pabna",NA
+"Iswardi","Pabna","Ishwardi","typing error","Iswardi","Pabna",NA
+"Chat Mohar","Pabna","Chatmohar","exact","Chat Mohar","Pabna",NA
+"Bhangora","Pabna","Bhangura","typing error","Bhangora","Pabna",NA
+"Ban Wari Nagar (Farifpur)","Pabna","Faridpur","typing error","Farifpur","Pabna",NA
+"Sujanagar","Pabna","Sujanagar","exact","Sujanagar","Pabna",NA
+"Santhia","Pabna","Santhia","exact","Santhia","Pabna",NA
+"Bera","Pabna","Bera","exact","Bera","Pabna",NA
+"Sadar","Sirajganj","Sirajganj Sadar","variant","Sadar","Sirajganj",NA
+"Kazipur","Sirajganj","Kazipur","exact","Kazipur","Sirajganj",NA
+"Dhangarha (Roygonj)","Sirajganj","Raiganj","variant","Roygonj","Sirajganj",NA
+"Baidya Jamtoil (Kamarkhand)","Sirajganj","Kamarkhanda","typing error","Kamarkhand","Sirajganj",NA
+"Belkuchi","Sirajganj","Belkuchi","exact","Belkuchi","Sirajganj",NA
+"Ullahpara","Sirajganj","Ullahpara","exact","Ullahpara","Sirajganj",NA
+"Shahjadpur","Sirajganj","Shahjadpur","exact","Shahjadpur","Sirajganj",NA
+"Tarash","Sirajganj","Tarash","exact","Tarash","Sirajganj",NA
+"Sadar","Kushtia","Kushtia Sadar","variant","Sadar","Kushtia",NA
+"Kumarkhali","Kushtia","Kumarkhali","exact","Kumarkhali","Kushtia",NA
+"Janipur (Khoksa)","Kushtia","Khoksa","exact","Khoksa","Kushtia",NA
+"Mirpur","Kushtia","Mirpur","exact","Mirpur","Kushtia",NA
+"Bheramara","Kushtia","Bheramara","exact","Bheramara","Kushtia",NA
+"Refayetpur (Daulatpur)","Kushtia","Daulatpur","exact","Daulatpur","Kushtia",NA
+"Sadar","Meherpur","Meherpur Sadar","variant","Sadar","Meherpur",NA
+"Gangni","Meherpur","Gangni","exact","Gangni","Meherpur",NA
+"Sadar","Chuadanga","Chuadanga Sadar","variant","Sadar","Chuadanga",NA
+"Alamdanga","Chuadanga","Alamdanga","exact","Alamdanga","Chuadanga",NA
+"Damurhuda","Chuadanga","Damurhuda","exact","Damurhuda","Chuadanga",NA
+"Daulagonj (Jibannagar)","Chuadanga","Jibannagar","exact","Jibannagar","Chuadanga",NA
+"Sadar","Jhenaidah","Jhenaidah Sadar","variant","Sadar","Jhenaidah",NA
+"Harina Kunda","Jhenaidah","Harinakunda","exact","Harina Kunda","Jhenaidah",NA
+"Shailakupa","Jhenaidah","Shailkupa","typing error","Shailakupa","Jhenaidah",NA
+"Court Chandpur","Jhenaidah","Kotchandpur","checked by hand",NA,"Jhenaidah","spelling"
+"Maheshpur","Jhenaidah","Maheshpur","exact","Maheshpur","Jhenaidah",NA
+"Naldanga (Kaligonj)","Jhenaidah","Kaliganj","exact","Kaligonj","Jhenaidah",NA
+"Sadar","Jashore","Jashore Sadar","variant","Sadar","Jashore",NA
+"Chawgacha","Jashore","Chaugachha","typing error","Chawgacha","Jashore",NA
+"Jhekargacha","Jashore","Jhikargachha","typing error","Jhekargacha","Jashore",NA
+"Sarsha","Jashore","Sharsha","typing error","Sarsha","Jashore",NA
+"Monirampur","Jashore","Manirampur","typing error","Monirampur","Jashore",NA
+"Keshabpur","Jashore","Keshabpur","exact","Keshabpur","Jashore",NA
+"Noapara (Avay Nagar)","Jashore","Abhaynagar","typing error","Avay Nagar","Jashore",NA
+"Bagarpara","Jashore","Bagherpara","typing error","Bagarpara","Jashore",NA
+"Sadar","Narail","Narail Sadar","variant","Sadar","Narail",NA
+"Lakshmipasa (Lohagara)","Narail","Lohagara","exact","Lohagara","Narail",NA
+"Kalia","Narail","Kalia","exact","Kalia","Narail",NA
+"Sadar","Magura","Magura Sadar","variant","Sadar","Magura",NA
+"Sreepur","Magura","Sreepur","exact","Sreepur","Magura",NA
+"Arpara (Salikha)","Magura","Shalikha","typing error","Salikha","Magura",NA
+"Mohammadpur","Magura","Mohammadpur","exact","Mohammadpur","Magura",NA
+"Sadar","Rajbari","Rajbari Sadar","variant","Sadar","Rajbari",NA
+"Goalondo","Rajbari","Goalandaghat","checked by hand",NA,"Rajbari","spelling"
+"Pangsha","Rajbari","Pangsha","exact","Pangsha","Rajbari",NA
+"Baliakandi","Rajbari","Baliakandi","exact","Baliakandi","Rajbari",NA
+"Sadar","Faridpur","Faridpur Sadar","variant","Sadar","Faridpur",NA
+"Char Bhadrasan","Faridpur","Charbhadrasan","exact","Char Bhadrasan","Faridpur",NA
+"Sadarpur","Faridpur","Sadarpur","exact","Sadarpur","Faridpur",NA
+"Bhanga","Faridpur","Bhanga","exact","Bhanga","Faridpur",NA
+"Nagarkanda","Faridpur","Nagarkanda","exact","Nagarkanda","Faridpur",NA
+"Madhukhali","Faridpur","Madhukhali","exact","Madhukhali","Faridpur",NA
+"Boalmari","Faridpur","Boalmari","exact","Boalmari","Faridpur",NA
+"Alfadanga","Faridpur","Alfadanga","exact","Alfadanga","Faridpur",NA
+"Sadar","Madaripur","Madaripur Sadar","variant","Sadar","Madaripur",NA
+"Rajair","Madaripur","Rajoir","typing error","Rajair","Madaripur",NA
+"Kalkini","Madaripur","Kalkini","exact","Kalkini","Madaripur",NA
+"Barahamgonj (Shibchar)","Madaripur","Shibchar","exact","Shibchar","Madaripur",NA
+"Sadar","Shariatpur","Shariatpur Sadar","variant","Sadar","Shariatpur",NA
+"Jangira","Shariatpur","Zajira","typing error","Jangira","Shariatpur",NA
+"Naria","Shariatpur","Naria","exact","Naria","Shariatpur",NA
+"Bhedergonj","Shariatpur","Bhedarganj","typing error","Bhedergonj","Shariatpur",NA
+"Demuday","Shariatpur","Damudya","checked by hand",NA,"Shariatpur","spelling"
+"Gosairhat","Shariatpur","Gosairhat","exact","Gosairhat","Shariatpur",NA
+"Sadar","Gopalganj","Gopalganj Sadar","variant","Sadar","Gopalganj",NA
+"Kotalipara","Gopalganj","Kotalipara","exact","Kotalipara","Gopalganj",NA
+"Tongipara","Gopalganj","Tungipara","typing error","Tongipara","Gopalganj",NA
+"Kasiani","Gopalganj","Kashiani","typing error","Kasiani","Gopalganj",NA
+"Maksudpur","Gopalganj","Muksudpur","typing error","Maksudpur","Gopalganj",NA
+"Sadar","Barishal","Barisal Sadar","variant","Sadar","Barishal",NA
+"Babugonj","Barishal","Babuganj","exact","Babugonj","Barishal",NA
+"Uzirpur","Barishal","Wazirpur","typing error","Uzirpur","Barishal",NA
+"Gour Nadi","Barishal","Gaurnadi","typing error","Gour Nadi","Barishal",NA
+"Agailjara","Barishal","Agailjhara","typing error","Agailjara","Barishal",NA
+"Muladi","Barishal","Muladi","exact","Muladi","Barishal",NA
+"Barjalia (Hijla)","Barishal","Hizla","typing error","Hijla","Barishal",NA
+"Mehendigonj","Barishal","Mehendiganj","exact","Mehendigonj","Barishal",NA
+"Sahebgonj (Bakhergonj)","Barishal","Bakerganj","typing error","Bakhergonj","Barishal",NA
+"Sadar","Bhola","Bhola Sadar","variant","Sadar","Bhola",NA
+"Daulatkhan","Bhola","Daulatkhan","exact","Daulatkhan","Bhola",NA
+"Burhanuddin","Bhola","Burhanuddin","exact","Burhanuddin","Bhola",NA
+"Lalmohan","Bhola","Lalmohan","exact","Lalmohan","Bhola",NA
+"Charfessan","Bhola","Char Fasson","typing error","Charfessan","Bhola",NA
+"Hat Shasigonj (Tazimuddin)","Bhola","Tazumuddin","typing error","Tazimuddin","Bhola",NA
+"Hazirhat (Monpura)","Bhola","Manpura","typing error","Monpura","Bhola",NA
+"Sadar","Jhalakathi","Jhalokati Sadar","variant","Sadar","Jhalakathi",NA
+"Rajapur","Jhalakathi","Rajapur","exact","Rajapur","Jhalakathi",NA
+"Nalchiti","Jhalakathi","Nalchity","typing error","Nalchiti","Jhalakathi",NA
+"Kathalia","Jhalakathi","Kathalia","exact","Kathalia","Jhalakathi",NA
+"Sadar","Pirojpur","Pirojpur Sadar","variant","Sadar","Pirojpur",NA
+"Kaukhali","Pirojpur","Kawkhali","typing error","Kaukhali","Pirojpur",NA
+"Swarupkati","Pirojpur","Nesarabad (Swarupkati)","checked by hand",NA,"Pirojpur","old name of the upazila"
+"Banaripara","Pirojpur","Banaripara","checked by hand",NA,"Barishal","postal district differs from the administrative district"
+"Nazirpur","Pirojpur","Nazirpur","exact","Nazirpur","Pirojpur",NA
+"Bhanderia","Pirojpur","Bhandaria","typing error","Bhanderia","Pirojpur",NA
+"Mathbaria","Pirojpur","Mathbaria","exact","Mathbaria","Pirojpur",NA
+"Sadar","Patuakhali","Patuakhali Sadar","variant","Sadar","Patuakhali",NA
+"Subidhakhali (Mirzagonj)","Patuakhali","Mirzaganj","exact","Mirzagonj","Patuakhali",NA
+"Baufal","Patuakhali","Bauphal","typing error","Baufal","Patuakhali",NA
+"Dasmina","Patuakhali","Dashmina","typing error","Dasmina","Patuakhali",NA
+"Golachipa","Patuakhali","Galachipa","typing error","Golachipa","Patuakhali",NA
+"Khepupara","Patuakhali","Kalapara","checked by hand",NA,"Patuakhali","post office town of the upazila"
+"Sadar","Barguna","Barguna Sadar","variant","Sadar","Barguna",NA
+"Amtali","Barguna","Amtali","exact","Amtali","Barguna",NA
+"Patharghata","Barguna","Patharghata","exact","Patharghata","Barguna",NA
+"Bamna","Barguna","Bamna","exact","Bamna","Barguna",NA
+"Betagi","Barguna","Betagi","exact","Betagi","Barguna",NA
+"Sadar","Khulna",NA,"not linked",NA,NA,NA
+"Fultala","Khulna","Phultala","typing error","Fultala","Khulna",NA
+"Digalia","Khulna","Dighalia","typing error","Digalia","Khulna",NA
+"Terakhada","Khulna","Terokhada","typing error","Terakhada","Khulna",NA
+"Alaipur (Rupsha)","Khulna","Rupsha","exact","Rupsha","Khulna",NA
+"Sajiara (Dumuria)","Khulna","Dumuria","exact","Dumuria","Khulna",NA
+"Batiaghat","Khulna","Batiaghata","typing error","Batiaghat","Khulna",NA
+"Chalna Bazar (Dakup)","Khulna","Dacope","checked by hand",NA,"Khulna","spelling"
+"Palkgacha","Khulna","Paikgachha","typing error","Palkgacha","Khulna",NA
+"Madinabad (Koyra)","Khulna","Koyra","exact","Koyra","Khulna",NA
+"Sadar","Bagerhat","Bagerhat Sadar","variant","Sadar","Bagerhat",NA
+"Kachua","Bagerhat","Kachua","exact","Kachua","Bagerhat",NA
+"Morelgonj","Bagerhat","Morrelganj","typing error","Morelgonj","Bagerhat",NA
+"Rayenda (Sharankhola)","Bagerhat","Sarankhola","typing error","Sharankhola","Bagerhat",NA
+"Rampal","Bagerhat","Rampal","exact","Rampal","Bagerhat",NA
+"Chalna Anchorange","Bagerhat","Mongla","checked by hand",NA,"Bagerhat","Mongla port was the Chalna anchorage"
+"Chitalmari","Bagerhat","Chitalmari","exact","Chitalmari","Bagerhat",NA
+"Fakirhat","Bagerhat","Fakirhat","exact","Fakirhat","Bagerhat",NA
+"Mollarhat","Bagerhat","Mollahat","typing error","Mollarhat","Bagerhat",NA
+"Sadar","Satkhira","Satkhira Sadar","variant","Sadar","Satkhira",NA
+"Kolaroa","Satkhira","Kalaroa","typing error","Kolaroa","Satkhira",NA
+"Tala","Satkhira","Tala","exact","Tala","Satkhira",NA
+"Debhata","Satkhira","Debhata","exact","Debhata","Satkhira",NA
+"Kaligonj","Satkhira","Kaliganj","exact","Kaligonj","Satkhira",NA
+"Nakipur (Shyamnagar)","Satkhira","Shyamnagar","exact","Shyamnagar","Satkhira",NA
+"Ashashuni","Satkhira","Assasuni","typing error","Ashashuni","Satkhira",NA

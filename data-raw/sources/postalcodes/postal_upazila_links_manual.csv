@@ -1,0 +1,28 @@
+postal_upazila,postal_district,upazila,district,note
+Swarupkati,Pirojpur,Nesarabad (Swarupkati),Pirojpur,old name of the upazila
+Goalondo,Rajbari,Goalandaghat,Rajbari,spelling
+Demuday,Shariatpur,Damudya,Shariatpur,spelling
+Jaganhpur,Sunamganj,Jagannathpur,Sunamganj,typing error in source
+Rajibpur,Kurigram,Char Rajibpur,Kurigram,short form
+Nitpur (Pursa),Naogaon,Porsha,Naogaon,spelling
+Gazipur,Gazipur,Gazipur Sadar,Gazipur,sadar upazila
+Khepupara,Patuakhali,Kalapara,Patuakhali,post office town of the upazila
+Court Chandpur,Jhenaidah,Kotchandpur,Jhenaidah,spelling
+Kalauk,Habiganj,Lakhai,Habiganj,post office town of the upazila
+Susang,Netrakona,Durgapur,Netrakona,Susang Durgapur
+Setabgonj,Dinajpur,Bochaganj,Dinajpur,post office town of the upazila
+Tushbhanader,Lalmonirhat,Kaliganj,Lalmonirhat,post office town (Tushbhandar) of the upazila
+Ranghar,Khagrachhari,Ramgarh,Khagrachhari,typing error in source
+Jarachari,Rangamati,Juraichhari,Rangamati,spelling
+Char Alexander (Rangamati),Lakshmipur,Ramgati,Lakshmipur,"Alexander is the upazila town; ""Rangamati"" in the source is a typing error for Ramgati"
+Chalna Bazar (Dakup),Khulna,Dacope,Khulna,spelling
+Chalna Anchorange,Bagerhat,Mongla,Bagerhat,Mongla port was the Chalna anchorage
+Fatulla,Narayanganj,Narayanganj Sadar,Narayanganj,thana within Narayanganj Sadar upazila
+Siddirgonj,Narayanganj,Narayanganj Sadar,Narayanganj,thana within Narayanganj Sadar upazila
+Kodomtoli,Dhaka,Kadamtali,Dhaka,spelling
+Dhobaura,Netrakona,Dhobaura,Mymensingh,postal district differs from the administrative district
+Dharampasa,Netrakona,Dharamapasha,Sunamganj,postal district differs from the administrative district
+Madhya Nagar,Netrakona,Madhyanagar,Sunamganj,postal district differs from the administrative district
+Bakshigonj,Sherpur,Baksiganj,Jamalpur,postal district differs from the administrative district
+Banaripara,Pirojpur,Banaripara,Barishal,postal district differs from the administrative district
+Nilkhet,Dhaka,,,reject the fuzzy link to Khilkhet: Nilkhet is a locality near New Market

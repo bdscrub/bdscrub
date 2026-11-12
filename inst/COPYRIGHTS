@@ -1,0 +1,37 @@
+bdscrub: sources of the reference data
+======================================
+
+The code of bdscrub is licensed under the MIT licence (see LICENSE).
+The package also contains reference data compiled from public sources.
+Only names, codes and their relations (facts) were taken from them.
+
+1. Post offices and post codes (data set bd_postcodes)
+   Source: Bangladesh Post, district post code pages of the Postmaster
+   General offices, https://bdpost.gov.bd, read October 2026.
+   The list is published openly by Bangladesh Post on its public website.
+   Two post office names with typing errors on the source pages were
+   corrected; the corrections are recorded in the `note` column.
+
+2. Boundary-file names and place codes of thanas and districts
+   (columns map_name and pcode of bd_thanas, district_map of bd_districts)
+   Source: administrative boundaries of the Bangladesh Bureau of Statistics
+   (BBS) as distributed on the Humanitarian Data Exchange (HDX), taken from
+   the CRAN package 'bangladesh' (Hossain, 2022).
+   Licence: as stated on the HDX dataset page (to be confirmed and named
+   here before the CRAN submission).
+
+3. List of thanas (rural thanas = upazilas)
+   Checked against "Upazilas of Bangladesh", Wikipedia,
+   https://en.wikipedia.org/wiki/Upazilas_of_Bangladesh (CC BY-SA 4.0),
+   read October 2026. Only place names were used; no text was copied.
+
+4. District and division names and codes (bd_districts, bd_divisions)
+   ISO 3166-2:BD (including the 2018 spelling changes) and the geographic
+   codes of the Bangladesh Bureau of Statistics.
+
+5. Mobile prefixes (bd_phone_prefixes)
+   Prefix allocations of the Bangladesh Telecommunication Regulatory
+   Commission (BTRC).
+
+Spelling variants of place names were collected by the authors from survey
+and administrative data.

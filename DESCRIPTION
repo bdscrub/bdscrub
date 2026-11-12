@@ -1,0 +1,33 @@
+Package: bdscrub
+Title: Clean Bangladesh-Specific Data Fields
+Version: 1.0.0
+Authors@R: 
+    c(person("Ishtiaq Mahmud", "Fahim", , "imfahim28@isrt.ac.bd", role = c("aut", "cre")),
+      person("Humaira", "Kashmi", role = "aut"))
+Description: Cleans the fields that make Bangladeshi survey and
+    administrative data messy. Reads mobile numbers in any format (also
+    several per cell), money amounts written with lakh, crore, Bangla
+    (Bengali) digits or as ranges, and plain numbers. Maps the many
+    spellings of district, division and thana (upazila) names, in English
+    or Bangla, to standard names, codes and the spellings used in
+    administrative boundary files, and reads the post code, thana, district
+    and division from free-text addresses using the Bangladesh Post office
+    list. Every correction is reported. Includes functions to check and
+    clean whole data frames. Works offline and depends on base R only.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 4.1.0)
+Imports: 
+    stats,
+    utils
+Suggests: 
+    knitr,
+    tibble,
+    rmarkdown,
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.1
